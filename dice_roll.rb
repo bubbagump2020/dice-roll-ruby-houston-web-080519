@@ -4,4 +4,5 @@
 
 def roll
   dice_roll = Math.rand(1..6)
+  return dice_roll
 end
